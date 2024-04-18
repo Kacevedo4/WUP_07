@@ -28,7 +28,9 @@ state of a patient must be died or alive - we adjust that as well
 # Your Question - Is dying independent of sex?
 
 
+$H_0$: There is no difference in death rate based on gender. 
 
+$H_A$: There is a difference in death rate based on gender.
 
 
 
