@@ -32,7 +32,13 @@ $H_0$: There is no difference in death rate based on gender.
 
 $H_A$: There is a difference in death rate based on gender.
 
+#Methods
 
+Have the Variables for this study which are Sex and result. 
+
+We want to find out if result depends on sex which it would be a categorical variable, sex is a categorical variable. 
+
+So we use the Cat ~ Cat helper file. 
 
 ## Graphical results - use ggplot commands to do this  
 
