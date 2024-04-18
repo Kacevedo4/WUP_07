@@ -67,6 +67,11 @@ fisher.test(table1)
 The Chi-squared tests (p-value: 0.012) this indicates that this is/is not significant difference in death rate based on sex and the p-value on the Fisher Exact test is 9e-04
 and The odds ratio is 2.3:1, this means 
 
-
 ## Conclusions
+
+"Is there a difference in death rate in the Korean data set based on Sex?
+
+Based on data it indicates that male death is higher on average being 60% and female average below 40%
+
+The numerical result shows the average male deaths are higher than female deaths at 64 deaths vs female death 36. We were able to say that there is a significant death rate difference due to Sex.
 
